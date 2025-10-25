@@ -47,7 +47,7 @@ Nó thể hiện các **trạng thái khác nhau** mà bản ghi chấm công c�
 ---
 
 ## 🧭 Mô tả tổng quát bằng văn bản UML
-🔴 → Khởi tạo
+⚫ → Khởi tạo
 Khởi tạo → Đang làm việc : Check-in
 Đang làm việc → Hoàn thành : Check-out
 Hoàn thành → Chờ xác nhận : Gửi dữ liệu
